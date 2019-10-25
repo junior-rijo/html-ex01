@@ -1,0 +1,18 @@
+Titulo Lord Vather
+Cor do Site preto leve
+foto do Lord Vather
+Paragrafo contendo um descritivo sobre o Site
+//Passos para inicio dos estudos
+Sobre o que é seu site? Você gosta de cachorros, Nova Iorque ou Pacman?
+Qual informação você quer apresentar dentro do seu assunto? Escreva um título e alguns parágrafos e pense em uma imagem para ilustrar sua página.
+Como seu site deve parecer, em termos simples. Qual é a cor de fundo? Qual é o tipo de fonte apropriado? Formal, desenhado, negrito e gritante, sutil?//
+Black
+(#000000)
+padding, o espaço ao redor do conteúdo (ex.: ao redor do texto de um parágrafo).
+border, a linha sólida do lado de fora do padding.
+margin, o espaço externo a um elemento.
+width (largura de um elemento).
+background-color, a cor atrás do conteúdo de um elemento e do padding.
+color, a cor do conteúdo de um elemento (geralmente texto).
+text-shadow: cria uma sombra no texto dentro de um elemento.
+display: define a maneira de dispor um elemento (não se preocupe com isso ainda).
